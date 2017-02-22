@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/prefs_crane">
+        <EditTextPreference android:inputType="numberDecimal" android:dialogTitle="@string/pref_crane_mass" android:title="@string/crane_mass_title" android:key="crane_mass" android:summary="@string/crane_mass_summary"/>
+    	<EditTextPreference android:inputType="numberDecimal" android:dialogTitle="@string/crane_airres" android:title="@string/crane_airres" android:key="crane_airres" android:summary="@string/crane_airres_summary"/>
+	</PreferenceCategory>
+</PreferenceScreen>

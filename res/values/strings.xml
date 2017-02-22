@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crane_airres_summary">Air resistace of the hook </string>
+    <string name="crane_airres">Set crane air resistance</string>
+    <string name="crane_mass_summary">The more mass the slower reaction</string>
+    <string name="crane_mass_title">Set crane mass</string>
+    <string name="pref_crane_mass">Crane Mass</string>
+    <string name="prefs_crane">Crane Properties</string>
+    <string name="app_name">Crane Driver</string>
+    <string name="text_a">Shall I compare thee to a summer"'"s day?</string>
+    <string name="text_b">Thou art more lovely and more temperate.</string>
+    <string name="dialog_title">No Localisation</string>
+    <string name="dialog_text">This dialog box"'"s strings are not localised. For every locale, the text here will come from values/strings.xml.</string>
+</resources>
